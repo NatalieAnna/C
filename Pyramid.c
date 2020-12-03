@@ -19,7 +19,7 @@ int main(void)
     int height = get_int("Input a positive number between 1 & 8: ");
     if (BETWEEN(height, 0, 9))
     {
-        // row
+        // rows
         for (int i = 0; i < height; i++)
         {
             // dots
