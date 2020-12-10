@@ -1,3 +1,4 @@
+// CS50 pset week 1 (Cash)
 // This program prompts the user for input (amount of change owed) and
 // calculates the smallest number of coins that will sum to this value
 
